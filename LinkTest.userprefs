@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{2073D0CC-2859-44D5-B721-C3910967E978}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/obj/Debug/netstandard2.0/RefitStubs.g.cs">
+    <Files>
+      <File FileName="LinkTest/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="LinkTest/ViewController.cs" Line="19" Column="1" />
+      <File FileName="LinkTest/packages.config" Line="5" Column="14" />
+      <File FileName="Core/Class1.cs" Line="12" Column="6" />
+      <File FileName="Core/obj/Debug/netstandard2.0/RefitStubs.g.cs" Line="58" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Catchpoint exceptionName="System.Exception" includeSubclasses="True" />
+      <Breakpoint file="/Users/kenneth/Desktop/LinkTest/LinkTest/ViewController.cs" relfile="LinkTest/ViewController.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LinkTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2390348E-0BB0-4F4A-BBED-4747D1C690A2" />
+  <MultiItemStartupConfigurations />
+</Properties>
